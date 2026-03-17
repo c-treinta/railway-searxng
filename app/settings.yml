@@ -1,0 +1,9 @@
+use_default_settings: true
+server:
+  secret_key: "SEARXNG_SECRET_KEY_PLACEHOLDER"
+  bind_address: "0.0.0.0:BIND_PORT_PLACEHOLDER"
+  image_proxy: true
+search:
+  default_lang: "en"
+ui:
+  default_theme: simple
