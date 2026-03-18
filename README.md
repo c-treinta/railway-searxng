@@ -1,6 +1,6 @@
 # Deploy and Host SearXNG with Railway
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/L3RC34?referralCode=ZVzVcL&utm_medium=integration&utm_source=template&utm_campaign=generic)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/searxng-1?referralCode=ZVzVcL&utm_medium=integration&utm_source=template&utm_campaign=generic)
 
 SearXNG is a free, open-source, privacy-respecting meta-search engine that aggregates results from over 70 search services without tracking users or storing search history.
 
